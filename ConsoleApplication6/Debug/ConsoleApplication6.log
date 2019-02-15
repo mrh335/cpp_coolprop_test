@@ -1,0 +1,2 @@
+﻿  pch.cpp
+c:\users\mark hoehne\source\repos\consoleapplication6\consoleapplication6\pch.cpp(1): fatal error C1083: Cannot open include file: 'CoolProp.h': No such file or directory
